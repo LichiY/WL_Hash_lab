@@ -1,0 +1,5 @@
+{
+  "name": "WL-Hash Lab",
+  "description": "An interactive laboratory to visualize and understand the Weisfeiler-Lehman Graph Kernel algorithm, featuring dynamic graph rendering, subtree unfolding, and detailed signature analysis.",
+  "requestFramePermissions": []
+}
